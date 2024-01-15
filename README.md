@@ -1,3 +1,5 @@
+![image](https://github.com/Duxk12801/ossec-install/assets/89244582/eb9c9c71-1098-4de1-b14c-1390d184cdbc)
+
 <h1 align="center">CẤU HÌNH OSSEC</h1>
 
 <h2>Cấu hình Ossec Agent</h2>
@@ -58,7 +60,7 @@ Agent key information for '001' is:
 ```
 Sau đó lưu lại Extract key
 Cài đặt Agent thông qua link: https://updates.atomicorp.com/channels/atomic/windows/ossec-agent-win32-3.7.0-24343.exe
-Di chuyển sang máy Agent
+<br>Di chuyển sang máy Agent</br>
 
 ![image](https://github.com/Duxk12801/ossec-install/assets/89244582/43222282-a588-478c-abd8-35dc4372be50)
 
@@ -123,4 +125,4 @@ OSSEC có 16 cấp độ luật:
 <h2>Cấu hình Active Respones</h2>
 
 https://www.ossec.net/docs/docs/manual/ar/ar-unix.html#commands-configuration
-https://www.ossec.net/docs/docs/manual/ar/ar-custom.html#configure-the-active-response
+<br>https://www.ossec.net/docs/docs/manual/ar/ar-custom.html#configure-the-active-response</br>
